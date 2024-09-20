@@ -1,0 +1,14 @@
+#text-button{
+
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    border: none;
+    border-radius: 5px;
+}
+.js-odd{
+    background-color: rgb(255, 187, 0);
+}
+.js-even{
+    background-color: rgb(172, 27, 58);
+}
